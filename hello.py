@@ -1,6 +1,2 @@
-def fun():
-    str="sandy i love you"
-    return str
+print("stable version 1")
 
-for i in range(6):
-    print(fun())
